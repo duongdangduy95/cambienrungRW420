@@ -39,10 +39,10 @@ Dự án này sử dụng cảm biến rung **SW-420** để phát hiện va ch�
 
 ---
 
-## 🧠 Nguyên lý hoạt động
+## Nguyên lý hoạt động
 
 - Khi có rung động, chân DO của SW-420 chuyển lên mức **HIGH**.
-- Arduino đọc trạng thái đó, **bật LED** và **in thông báo** ra Serial Monitor.
+- Arduino đọc trạng thái đó, **bật LED** trên Arduino và **in thông báo** ra Serial Monitor.
 
 ---
 
@@ -50,7 +50,7 @@ Dự án này sử dụng cảm biến rung **SW-420** để phát hiện va ch�
 
 ## 📹 Video demo *(nếu có)*
 
-👉 *(Thêm link YouTube ở đây nếu bạn có)*
+(https://youtu.be/Iv8Y4WwMgrU)
 
 ---
 
